@@ -1,2 +1,2 @@
-# scRNA Analysis - HSCs vs LSCs
- In this project, I identified cell clusters from hematopoietic stem cells (HSC) and leukemic stem cells (LSC) found in patients with chronic myeloid leukaemia (chronic phase) and profiled differentially expressed genes in both HSC and LSC groups.
+# Transcriptomic Profiling of COVID-19 Immune Response
+ this study provides a comprehensive snapshot of the host transcriptomic landscape during COVID-19 and highlights key immunological processes that may underpin disease progression and resolution.
